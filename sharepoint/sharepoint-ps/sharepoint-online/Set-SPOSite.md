@@ -422,7 +422,7 @@ Accept wildcard characters: False
 ```
 
 ### -AllowLimitedAccess
-{{Fill AllowLimitedAccess Description}}
+Allow access to SharePoint and OneDrive from an unmanaged device by granting browser-only access with download, print, and sync disabled.
 
 ```yaml
 Type: Boolean
